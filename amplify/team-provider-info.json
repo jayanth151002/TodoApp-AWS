@@ -1,0 +1,30 @@
+{
+  "dev": {
+    "awscloudformation": {
+      "AuthRoleName": "amplify-trialapp-dev-231307-authRole",
+      "UnauthRoleArn": "arn:aws:iam::147939623793:role/amplify-trialapp-dev-231307-unauthRole",
+      "AuthRoleArn": "arn:aws:iam::147939623793:role/amplify-trialapp-dev-231307-authRole",
+      "Region": "ap-south-1",
+      "DeploymentBucketName": "amplify-trialapp-dev-231307-deployment",
+      "UnauthRoleName": "amplify-trialapp-dev-231307-unauthRole",
+      "StackName": "amplify-trialapp-dev-231307",
+      "StackId": "arn:aws:cloudformation:ap-south-1:147939623793:stack/amplify-trialapp-dev-231307/4ed61070-dd1b-11ec-81c3-02d826ca047e",
+      "AmplifyAppId": "d1gnwup0mu6zm"
+    },
+    "categories": {
+      "auth": {
+        "trialappaeb7c1d4": {}
+      },
+      "function": {
+        "firstFunction": {
+          "deploymentBucketName": "amplify-trialapp-dev-231307-deployment",
+          "s3Key": "amplify-builds/firstFunction-685859796a6145494576-build.zip"
+        },
+        "trialapplayer482a4f1f": {
+          "deploymentBucketName": "amplify-trialapp-dev-231307-deployment",
+          "s3Key": "amplify-builds/trialapplayer482a4f1f-LambdaLayerVersionfc4d83dd-build.zip"
+        }
+      }
+    }
+  }
+}
